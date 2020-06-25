@@ -1,0 +1,13 @@
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\obj\Debug\netcoreapp3.1\StopWacth.csprojAssemblyReference.cache
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\obj\Debug\netcoreapp3.1\StopWacth.AssemblyInfoInputs.cache
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\obj\Debug\netcoreapp3.1\StopWacth.AssemblyInfo.cs
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\obj\Debug\netcoreapp3.1\StopWacth.csproj.CoreCompileInputs.cache
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\bin\Debug\netcoreapp3.1\StopWacth.exe
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\bin\Debug\netcoreapp3.1\StopWacth.deps.json
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\bin\Debug\netcoreapp3.1\StopWacth.runtimeconfig.json
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\bin\Debug\netcoreapp3.1\StopWacth.runtimeconfig.dev.json
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\bin\Debug\netcoreapp3.1\StopWacth.dll
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\bin\Debug\netcoreapp3.1\StopWacth.pdb
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\obj\Debug\netcoreapp3.1\StopWacth.dll
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\obj\Debug\netcoreapp3.1\StopWacth.pdb
+C:\Users\ptccc\source\repos\StopWacth\StopWacth\obj\Debug\netcoreapp3.1\StopWacth.genruntimeconfig.cache
